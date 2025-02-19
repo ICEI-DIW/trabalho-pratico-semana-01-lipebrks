@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Filipe Tótaro Bruekers
+Matricula: 923201
 
 ## Tela de inspeção com navegador
-
+<img src="coin.png" alt="">
 
 ## Tela de projeto no Replit
+<img src="replit.png" alt="">
 
